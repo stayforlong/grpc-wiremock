@@ -1,6 +1,3 @@
-[![](https://images.microbadger.com/badges/version/javiyt/grpc-wiremock.svg)](https://microbadger.com/images/javiyt/grpc-wiremock "Get your own version badge on microbadger.com")
-[![](https://images.microbadger.com/badges/image/javiyt/grpc-wiremock.svg)](https://microbadger.com/images/javiyt/grpc-wiremock "Get your own image badge on microbadger.com")
-
 # Overview
 grpc-wiremock is a **mock server** for **GRPC** services implemented as a wrapper around the [WireMock](http://wiremock.org) http server.
 
